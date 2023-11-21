@@ -1,4 +1,4 @@
-# Hi there 👋
+![Oscar Molinar Pic Profile](https://www.oscarmolinar.dev/static/square-om.webp, "Oscar Molinar Pic Profile")
 
 <!--
 **oscarenriqq/oscarenriqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
