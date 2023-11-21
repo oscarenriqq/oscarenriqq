@@ -1,16 +1,31 @@
-![Oscar Molinar Pic Profile](https://www.oscarmolinar.dev/static/square-om.webp, "Oscar Molinar Pic Profile")
+<img src="https://www.oscarmolinar.dev/static/square-om.webp" width="200" style="margin: 0 auto; display: block; border-radius: 50%">
 
-<!--
-**oscarenriqq/oscarenriqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style=" margin-top: 1em; padding: 0 5em;">
+<p>¡Hola👋! Soy Oscar Molinar 💻</p>
 
-Here are some ideas to get you started:
+<p>Soy un desarrollador de software con más de 5 años de experiencia.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> Actualmente me encuentro trabajando en la creación de soluciones utilizando Python, FastAPI, React, AWS, entre otras cosas... 🚀 </p>
+
+<p> También me encantaría colaborar en algún proyecto junto a otros desarrolladores. Participar de un grupo o comunidad es parte de mis objetivos a corto plazo. 👥 </p>
+
+<p> Si te interesa contactarme, aquí te dejo mis datos de contacto </p>
+<ul style="padding: 0; list-style: none;">    
+    <li>
+        📧Email: <a href="mailto:oscarmolinar96@gmail.com">oscarmolinar96@gmail.com</a>
+    </li>
+    <li>
+        💼LinkedIn: <a href="https://www.linkedin.com/in/oscar-molinar-0296/">linkedin.com/in/oscar-molinar-0296/</a>
+    </li>
+</ul>
+
+<ul style="padding: 0; list-style: none;">    
+    <li>
+        🌐Visita mi Blog: <a href="https://www.oscarmolinar.dev">oscarmolinar.dev</a>
+    </li>
+    <li>
+        ✒️Visita mis artículos: <a href="https://writing.oscarmolinar.dev">writing.oscarmolinar.dev</a>
+    </li>
+</ul>
+
+</div>
