@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-    <img align="center" src="https://avatars.githubusercontent.com/u/67554616?s=400&u=ea097d2dfd86afab2a69629041138389c22894fe&v=4" width="200">
+    <img align="center" src="https://oscarmolinar.s3.us-east-005.backblazeb2.com/om-blue.png" width="200">
     <h3 align="center">Un gusto🎩</h3>
     <h4 align="center">Soy Oscar Molinar 💻 </h4>
 </p>
