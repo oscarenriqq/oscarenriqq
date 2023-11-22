@@ -14,7 +14,7 @@
 <p> Si te interesa contactarme, aquí te dejo mis datos de contacto </p>
 
 📧Email: <a href="mailto:oscarmolinar96@gmail.com">oscarmolinar96@gmail.com</a><br>
-💼LinkedIn: <a href="https://www.linkedin.com/in/oscar-molinar-0296/">linkedin.com/in/oscar-molinar-0296/</a> <br>
+💼Linkedin: <a href="https://www.linkedin.com/in/oscar-molinar-0296/">linkedin.com/in/oscar-molinar-0296/</a> <br>
 🌐Visita mi Blog: <a href="https://www.oscarmolinar.dev">oscarmolinar.dev</a><br>
 ✒️Visita mis artículos: <a href="https://writing.oscarmolinar.dev">writing.oscarmolinar.dev</a><br>
 
