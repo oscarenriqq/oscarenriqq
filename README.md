@@ -7,9 +7,7 @@
 
 <p>Soy un desarrollador de software con más de 5 años de experiencia.</p>
 
-<p> Actualmente me encuentro trabajando en la creación de soluciones utilizando Python, FastAPI, React, AWS, entre otras cosas... 🚀 </p>
-
-<p> También me encantaría colaborar en algún proyecto junto a otros desarrolladores. Participar de un grupo o comunidad es parte de mis objetivos a corto plazo. 👥 </p>
+<p>Mi principal enfoque la creación de aplicaciones Fullstack utilizando PHP y Javascript.</p>
 
 <p> Si te interesa contactarme, aquí te dejo mis datos de contacto </p>
 
